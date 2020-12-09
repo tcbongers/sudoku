@@ -2,6 +2,8 @@
 # Puzzle is specified as a list of 81 integers in [0..9]
 
 # Draws from the database at Project Euler problem 96.
+# Puzzles are configured in a file called puzzle_database.txt
+# and are formatted in ten-line blocks starting with a grid number.
 
 # output(candidate): format the solved puzzle and return a
 # preformatted string for the solution; only called once
